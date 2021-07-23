@@ -1,0 +1,11 @@
+{
+    "title": "Custom TTT Randomat Events",
+    "type": "ServerContent",
+    "tags": [ "fun", "comic" ],
+    "ignore": [
+        "*.psd",
+        "*~*",
+        "*.swp"
+    ]
+}
+
